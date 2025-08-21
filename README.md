@@ -5,6 +5,8 @@
 
 A single player tool for quickly scanning JS files and paths
 
+It covers functions such as vulnerability exploration, HAE workflow, AI intelligent analysis of vulnerabilities and hidden paths, and extraction of sensitive interfaces
+
 使用教程：
 
 --cer : 过证书
@@ -18,3 +20,19 @@ A single player tool for quickly scanning JS files and paths
 --sleep=5 : 请求的睡眠时间
 
 --scan=5 : 迭代扫描的深度，最高为5，默认为1
+
+
+
+Usage tutorial:
+
+--Cer: Certified
+
+--Time=5: timeout setting
+
+--URL: Custom URL concatenation
+
+--proxy= http://127.0.0.1:8080 : Custom Proxy
+
+--Sleep=5: requested sleep time
+
+--Scan=5: depth of iterative scanning, up to 5, default to 1
