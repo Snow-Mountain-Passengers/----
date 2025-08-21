@@ -3,9 +3,9 @@
 
 涵盖了漏洞勘探、HAE工作流、AI智能分析漏洞与隐藏路径，敏感接口提取等功能
 
-A single player tool for quickly scanning JS files and paths
+A single player tool for quickly scanning JS files and paths 
 
-It covers functions such as vulnerability exploration, HAE workflow, AI intelligent analysis of vulnerabilities and hidden paths, and extraction of sensitive interfaces
+It covers functions such as vulnerability exploration, threat matching, AI intelligent analysis of vulnerabilities and hidden paths, and extraction of sensitive interfaces
 
 使用教程：
 
