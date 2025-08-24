@@ -7,6 +7,10 @@ A single player tool for quickly scanning JS files and paths
 
 It covers functions such as vulnerability exploration, threat matching, AI intelligent analysis of vulnerabilities and hidden paths, and extraction of sensitive interfaces
 
+由于商业问题，暂时没有进行开源工作，在今后会考虑选择开源，本工具敢担保没有任何木马病毒，只要是从我发布的渠道下载的，如果怀疑，可以自行逆向查看，如果对我与工具进行造谣和无端的污蔑，我将走法律程序解决此问题
+
+Due to commercial issues, we have not yet started open source work. In the future, we will consider choosing open source. We guarantee that there are no Trojan viruses in this tool, as long as it is downloaded from the channel I published. If you suspect it, you can reverse engineer it yourself. If there are rumors and baseless accusations against me and the tool, I will take legal action to resolve this issue
+
 使用教程：
 
 --cer : 过证书
